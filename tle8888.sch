@@ -1,0 +1,196 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L tle8888:TLE8888QK U?
+U 1 1 63FE99C4
+P 15625 11125
+F 0 "U?" H 17369 11178 60  0000 L CNN
+F 1 "TLE8888QK" H 17369 11072 60  0000 L CNN
+F 2 "" V 15025 11775 60  0001 C CNN
+F 3 "" V 15025 11775 60  0001 C CNN
+	1    15625 11125
+	1    0    0    -1  
+$EndComp
+Text HLabel 13750 12325 0    50   Input ~ 0
+AGND
+Wire Wire Line
+	13750 12325 13925 12325
+Text HLabel 14425 9250 1    50   Input ~ 0
+PGND
+Wire Wire Line
+	14425 9250 14425 9425
+Text HLabel 17500 9925 2    50   Input ~ 0
+PGND
+Wire Wire Line
+	17500 9925 17325 9925
+Text HLabel 16825 13000 3    50   Input ~ 0
+PGND
+Wire Wire Line
+	16825 13000 16825 12825
+Text HLabel 15975 9250 1    50   Input ~ 0
+OUT1
+Wire Wire Line
+	15925 9425 15925 9375
+Wire Wire Line
+	15925 9375 15975 9375
+Wire Wire Line
+	16025 9375 16025 9425
+Wire Wire Line
+	15975 9250 15975 9375
+Connection ~ 15975 9375
+Wire Wire Line
+	15975 9375 16025 9375
+Text HLabel 15775 9250 1    50   Input ~ 0
+OUT2
+Wire Wire Line
+	15725 9425 15725 9375
+Wire Wire Line
+	15725 9375 15775 9375
+Wire Wire Line
+	15825 9375 15825 9425
+Wire Wire Line
+	15775 9250 15775 9375
+Connection ~ 15775 9375
+Wire Wire Line
+	15775 9375 15825 9375
+Text HLabel 15575 9250 1    50   Input ~ 0
+OUT3
+Wire Wire Line
+	15525 9425 15525 9375
+Wire Wire Line
+	15525 9375 15575 9375
+Wire Wire Line
+	15625 9375 15625 9425
+Wire Wire Line
+	15575 9250 15575 9375
+Connection ~ 15575 9375
+Wire Wire Line
+	15575 9375 15625 9375
+Text HLabel 15375 9250 1    50   Input ~ 0
+OUT4
+Wire Wire Line
+	15325 9425 15325 9375
+Wire Wire Line
+	15325 9375 15375 9375
+Wire Wire Line
+	15425 9375 15425 9425
+Wire Wire Line
+	15375 9250 15375 9375
+Connection ~ 15375 9375
+Wire Wire Line
+	15375 9375 15425 9375
+Text HLabel 13750 10725 0    50   Input ~ 0
+OUT5
+Wire Wire Line
+	13925 10625 13875 10625
+Wire Wire Line
+	13875 10625 13875 10725
+Wire Wire Line
+	13875 10825 13925 10825
+Wire Wire Line
+	13925 10725 13875 10725
+Connection ~ 13875 10725
+Wire Wire Line
+	13875 10725 13875 10825
+Wire Wire Line
+	13750 10725 13875 10725
+Text HLabel 13750 11625 0    50   Input ~ 0
+OUT6
+Wire Wire Line
+	13925 11525 13875 11525
+Wire Wire Line
+	13875 11525 13875 11625
+Wire Wire Line
+	13875 11725 13925 11725
+Wire Wire Line
+	13925 11625 13875 11625
+Connection ~ 13875 11625
+Wire Wire Line
+	13875 11625 13875 11725
+Wire Wire Line
+	13750 11625 13875 11625
+Text HLabel 15825 13000 3    50   Input ~ 0
+OUT7
+Wire Wire Line
+	15725 12825 15725 12875
+Wire Wire Line
+	15725 12875 15825 12875
+Wire Wire Line
+	15925 12875 15925 12825
+Wire Wire Line
+	15825 12825 15825 12875
+Connection ~ 15825 12875
+Wire Wire Line
+	15825 12875 15925 12875
+Wire Wire Line
+	15825 13000 15825 12875
+Text HLabel 14925 9250 1    50   Input ~ 0
+OUT8
+Text HLabel 14725 9250 1    50   Input ~ 0
+OUT9
+Text HLabel 14525 9250 1    50   Input ~ 0
+OUT10
+Text HLabel 13750 10025 0    50   Input ~ 0
+OUT11
+Text HLabel 13750 10225 0    50   Input ~ 0
+OUT12
+Text HLabel 13750 10425 0    50   Input ~ 0
+OUT13
+Text HLabel 15225 9250 1    50   Input ~ 0
+OUT15
+Text HLabel 15125 9250 1    50   Input ~ 0
+OUT14
+Text HLabel 16125 9250 1    50   Input ~ 0
+OUT16
+Text HLabel 16225 9250 1    50   Input ~ 0
+OUT17
+Text HLabel 16325 9250 1    50   Input ~ 0
+OUT18
+Wire Wire Line
+	16325 9250 16325 9425
+Wire Wire Line
+	16225 9250 16225 9425
+Wire Wire Line
+	16125 9250 16125 9425
+Wire Wire Line
+	15225 9250 15225 9425
+Wire Wire Line
+	15125 9250 15125 9425
+Wire Wire Line
+	14925 9250 14925 9425
+Wire Wire Line
+	14725 9250 14725 9425
+Wire Wire Line
+	14525 9250 14525 9425
+Wire Wire Line
+	13750 10025 13925 10025
+Wire Wire Line
+	13750 10225 13925 10225
+Wire Wire Line
+	13750 10425 13925 10425
+Text HLabel 15025 9250 1    50   Input ~ 0
+DFB8
+Text HLabel 14825 9250 1    50   Input ~ 0
+DFB9
+Text HLabel 14625 9250 1    50   Input ~ 0
+DFB10
+Text HLabel 13750 9925 0    50   Input ~ 0
+DFB11
+Text HLabel 13750 10125 0    50   Input ~ 0
+DFB12
+Text HLabel 13750 10325 0    50   Input ~ 0
+DFB13
+$EndSCHEMATC
