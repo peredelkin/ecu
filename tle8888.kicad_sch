@@ -2498,6 +2498,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f3c90df2-a7bf-4b2f-92c5-41b2a755138e)
   )
+  (wire (pts (xy 503.555 297.18) (xy 513.08 297.18))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid f4688178-85dc-44f0-b0be-0b481dcf615e)
+  )
   (wire (pts (xy 449.58 274.32) (xy 455.93 274.32))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f47d58d0-826b-454b-b5ec-1ef2450a1272)
@@ -2549,6 +2553,11 @@
   (wire (pts (xy 426.72 309.88) (xy 426.72 316.23))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ffd9d95b-99c9-436d-aa0e-4c9d953ab538)
+  )
+
+  (label "GND" (at 503.555 297.18 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid a67ffe33-17ba-4578-8cb3-d179a7997c78)
   )
 
   (hierarchical_label "CANL" (shape input) (at 490.22 212.725 90)
