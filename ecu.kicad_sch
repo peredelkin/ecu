@@ -1476,6 +1476,15 @@
     (path "/00000000-0000-0000-0000-000063fe10c5/6c177ace-886a-4190-b0a7-173838aad24e"
       (reference "JP?") (unit 1) (value "VR_AGND") (footprint "")
     )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/77fa31b7-e391-4951-931c-bf0fa38cffef"
+      (reference "JP?") (unit 1) (value "MSEL2") (footprint "")
+    )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/8645fd42-021c-43f7-8155-d03447379d76"
+      (reference "JP?") (unit 1) (value "MSEL1") (footprint "")
+    )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/bd5c7237-bd26-42ae-884d-1b654a158a94"
+      (reference "JP?") (unit 1) (value "MSEL0") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000063fe10c5/bde138df-d153-4b3e-81a5-743342fac44e"
       (reference "JP?") (unit 1) (value "FCLN") (footprint "")
     )
