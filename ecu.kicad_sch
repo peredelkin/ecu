@@ -1638,5 +1638,8 @@
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/4f64652c-22ff-43c1-8291-572c72b2b2e0"
       (reference "U?") (unit 1) (value "EP4CE22E22I7N") (footprint "")
     )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/52c41342-65c3-4e26-8d07-2efac2e8d67e"
+      (reference "U?") (unit 1) (value "epcs1") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
   )
 )
