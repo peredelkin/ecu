@@ -1581,6 +1581,9 @@
     (path "/00000000-0000-0000-0000-000063fe10c5/8e1ab336-a719-4f97-acb6-87e75cf20aba"
       (reference "R?") (unit 1) (value "1k") (footprint "")
     )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/91c78f32-95d4-4914-9a32-6491ff80366e"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000063fe10c5/9d2de1d5-8d53-4a5e-92a9-e7c1480d5368"
       (reference "R?") (unit 1) (value "1k") (footprint "")
     )
