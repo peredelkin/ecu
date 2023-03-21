@@ -3,4 +3,5 @@
   (lib (name "ep4ce22e22i7n")(type "KiCad")(uri "D:/kicad_libs/ep4ce22e22i7n/ep4ce22e22i7n.kicad_sym")(options "")(descr ""))
   (lib (name "368255-2")(type "KiCad")(uri "D:/kicad_libs/368255-2/368255-2.kicad_sym")(options "")(descr ""))
   (lib (name "epcs")(type "KiCad")(uri "D:/kicad_libs/epcs/epcs.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS54x3x")(type "KiCad")(uri "D:/kicad_libs/TPS54x3x/TPS54x3x.kicad_sym")(options "")(descr ""))
 )
