@@ -1340,7 +1340,7 @@
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/4aa5f19d-0b47-44e0-836b-56b212ed3e9b"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "10uF") (footprint "")
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/4cc3e580-cee1-4463-a961-2c39521beb9d"
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
@@ -1454,7 +1454,7 @@
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/ed1e69ef-0fcc-47ac-89fd-47ccdcde4326"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000063fe10c5/f1a8c387-5c28-4432-9272-a95bf8da8781"
       (reference "C?") (unit 1) (value "47uF") (footprint "")
@@ -1703,7 +1703,7 @@
       (reference "U?") (unit 1) (value "TPS54332") (footprint "Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias")
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/4f64652c-22ff-43c1-8291-572c72b2b2e0"
-      (reference "U?") (unit 1) (value "EP4CE22E22I7N") (footprint "")
+      (reference "U?") (unit 1) (value "EP4CE22E22I7N") (footprint "Package_QFP:EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm")
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/52c41342-65c3-4e26-8d07-2efac2e8d67e"
       (reference "U?") (unit 1) (value "epcs1") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
