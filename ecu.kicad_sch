@@ -1507,6 +1507,9 @@
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/f8376ce9-e386-4c3a-820b-d39413a409a1"
       (reference "J?") (unit 1) (value "AS Mode") (footprint "")
     )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/08dd5bdf-4c71-44c2-ad71-8adf5d30fb09"
+      (reference "JP?") (unit 1) (value "JP3.3") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000063fe10c5/1afbb6d6-2847-4172-b7ab-924b6c3501a0"
       (reference "JP?") (unit 1) (value "SIN") (footprint "")
     )
@@ -1527,6 +1530,12 @@
     )
     (path "/00000000-0000-0000-0000-000063fe10c5/bde138df-d153-4b3e-81a5-743342fac44e"
       (reference "JP?") (unit 1) (value "FCLN") (footprint "")
+    )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/bef90441-d4b5-44f9-b676-3e893eba6ff6"
+      (reference "JP?") (unit 1) (value "JP3.3") (footprint "")
+    )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/e2f312e5-7aef-4846-8caa-b952ad9fe269"
+      (reference "JP?") (unit 1) (value "JP2.5") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000063fe10c5/f17b8943-2bf1-4614-9c0c-b816cef049f6"
       (reference "JP?") (unit 1) (value "CANWKEN") (footprint "")
@@ -1707,6 +1716,12 @@
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/657bd9a4-30a0-4d21-abb9-9b1a39b0b28b/d7c29114-9b3c-420f-9490-6ff50af9417c"
       (reference "U?") (unit 1) (value "MP2307") (footprint "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm")
+    )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/0167c5cd-f12a-4b2d-beec-a8399d02e649"
+      (reference "X?") (unit 1) (value "XO91") (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm")
+    )
+    (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/71b2c45a-bb19-4c72-862e-7df60635057c"
+      (reference "X?") (unit 1) (value "XO91") (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm")
     )
   )
 )
