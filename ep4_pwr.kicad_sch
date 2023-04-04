@@ -859,7 +859,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 388096a4-fe3a-4910-8db4-c632bebe0524)
   )
-  (hierarchical_label "VIN" (shape input) (at 44.45 25.4 180)
+  (hierarchical_label "VIN_5" (shape input) (at 44.45 25.4 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 38da8dda-05bc-4b01-85c3-a5fc72125ad2)
   )

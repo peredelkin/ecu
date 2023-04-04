@@ -331,6 +331,10 @@
     [
       "657bd9a4-30a0-4d21-abb9-9b1a39b0b28b",
       "ep4_pwr"
+    ],
+    [
+      "e79beb28-5750-44b5-9bb0-ac4d5f756b1e",
+      "xmc4800"
     ]
   ],
   "text_variables": {}

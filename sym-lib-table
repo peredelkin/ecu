@@ -5,4 +5,5 @@
   (lib (name "epcs")(type "KiCad")(uri "D:/kicad_libs/epcs/epcs.kicad_sym")(options "")(descr ""))
   (lib (name "TPS54x3x")(type "KiCad")(uri "D:/kicad_libs/TPS54x3x/TPS54x3x.kicad_sym")(options "")(descr ""))
   (lib (name "mp2307")(type "KiCad")(uri "D:/kicad_libs/MP2307/mp2307.kicad_sym")(options "")(descr ""))
+  (lib (name "xmc4800")(type "KiCad")(uri "D:/kicad_libs/xmc4800-f144k2048/xmc4500.kicad_sym")(options "")(descr ""))
 )
