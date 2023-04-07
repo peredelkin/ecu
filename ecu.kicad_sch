@@ -974,8 +974,20 @@
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/69d16418-562b-47eb-ac38-f76248a5bf88"
       (reference "D?") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
+    (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/942e26c3-4dca-4c9e-9bc8-910e721d5147"
+      (reference "D?") (unit 1) (value "Schottky") (footprint "")
+    )
+    (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/952612d3-412d-4da0-a3a8-75796c2ff7c2"
+      (reference "D?") (unit 1) (value "Schottky") (footprint "")
+    )
     (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/9af9be0d-3195-40e7-9017-619f65ff9496"
       (reference "D?") (unit 1) (value "BAT54C") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/a5465aa6-d88e-4ddf-8603-4f9f156dce38"
+      (reference "D?") (unit 1) (value "Schottky") (footprint "")
+    )
+    (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/a5d7718a-5d47-4bf3-b487-b7cb492c0fdf"
+      (reference "D?") (unit 1) (value "Schottky") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000063fe10c5/ac7f4b6c-d115-48fb-8fc6-d5d4a6cc3450"
       (reference "D?") (unit 1) (value "D_Small") (footprint "")
@@ -988,6 +1000,12 @@
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/073b754a-a7f4-47e9-bae1-2bf4d45dabcb"
       (reference "J?") (unit 1) (value "JTAG") (footprint "")
+    )
+    (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/59dec935-0a6b-4b4b-9a07-0efc557bb74f"
+      (reference "J?") (unit 1) (value "SWD_UART") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
+    )
+    (path "/e79beb28-5750-44b5-9bb0-ac4d5f756b1e/a0468b32-410e-4b6d-a4bc-88e2a0eec152"
+      (reference "J?") (unit 1) (value "USB_B") (footprint "")
     )
     (path "/2661bea7-5b4f-4cfb-964d-cf2df601b09f/f8376ce9-e386-4c3a-820b-d39413a409a1"
       (reference "J?") (unit 1) (value "AS Mode") (footprint "")
